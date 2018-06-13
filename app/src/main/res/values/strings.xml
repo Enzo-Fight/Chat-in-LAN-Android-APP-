@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Circle</string>
+    <string name="title_record_name">记录</string>
+    <string name="title_friend_name">朋友</string>
+    <string name="title_function_name">功能</string>
+    <string name="title_call_name">电话</string>
+</resources>
